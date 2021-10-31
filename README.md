@@ -1,1 +1,1 @@
-save some tuffle smart contact file
+save some truffle smart contract file
